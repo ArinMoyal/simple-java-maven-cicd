@@ -1,4 +1,4 @@
-name: Static Analysis on Merge
+name: My absolutely flawless workflow
 
 on:
   push:
